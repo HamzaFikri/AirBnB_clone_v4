@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
 Mohammed Hamza Fikri - [Github](https://github.com/HamzaFikri) /
  - [Github](https://github.com/)  
-Igebu Kriss - [Github] (https://github.com/KSI5) /
+Igebu Kriss - [Github](https://github.com/KSI5) /
  - [Github](https://github.com/) 
 
 Second part of Airbnb: Joann Vuong
